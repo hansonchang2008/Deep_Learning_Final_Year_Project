@@ -1,6 +1,7 @@
 # Deep_Learning_Final_Year_Project
 Essential Python Code for Final Year Project
-1st Place Best Final Year Project in Department of Computer Science: https://www.cis.um.edu.mo/bestfyp.html
+1st Place Best Final Year Project in Department of Computer Science:https://www.cis.um.edu.mo/bestfyp.html
+Poster: https://www.cis.um.edu.mo/images/fyp_posters/20182019/2018_2019_01.jpg
 
 Title:
 Non-invasive Multi-disease Detection via Face and Tongue Image Analysis using Deep Learning
