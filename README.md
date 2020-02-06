@@ -14,19 +14,19 @@ Heart disease and diabetes are two major causes of death all over the world. Whi
 
 The Code is organized as follows:
 3 Classifiers:
-CNN.py - The TensorFlow code for Convolutional Neural Network implementation (Deep Learning)
-kNN.py - The k-Nearest Neighbor classifier implemented using Sci-kit Learn in Python
-svm.py - The Support Vector Machine classifier implemented using Sci-kit Learn in Python
+* CNN.py - The TensorFlow code for Convolutional Neural Network implementation (Deep Learning)
+* kNN.py - The k-Nearest Neighbor classifier implemented using Sci-kit Learn in Python
+* svm.py - The Support Vector Machine classifier implemented using Sci-kit Learn in Python
 
 Graphical User Interface:
-Backend.py - The backend code for Graphical User Interface that uses the trained CNN model and predicts the health status
-main_gui.py - The main code for Graphical User Interface using Pyqt5 Package in Python
-my_gui_change_backgroud.py - The code to change the background of the GUI
+* Backend.py - The backend code for Graphical User Interface that uses the trained CNN model and predicts the health status
+* main_gui.py - The main code for Graphical User Interface using Pyqt5 Package in Python
+* my_gui_change_backgroud.py - The code to change the background of the GUI
 
 Data Preprocessing:
-extraction_facial.py - The code extracts four facial blocks from the face image, achieved by locating the positions of eyes first
-extraction_tongue.py - The code extracts eight tongue blocks from the tongue image
-combine_blocks.py - The code combines the twelve image blocks into one
+* extraction_facial.py - The code extracts four facial blocks from the face image, achieved by locating the positions of eyes first
+* extraction_tongue.py - The code extracts eight tongue blocks from the tongue image
+* combine_blocks.py - The code combines the twelve image blocks into one
 
 Installation requirements: OS Ubuntu 18.04, Disk Space 1GB
 *The Whole face and tongue images are captured using special devices to reduce noise.
