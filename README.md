@@ -12,7 +12,7 @@ Non-invasive Multi-disease Detection via Face and Tongue Image Analysis using De
 
 The Code is organized as follows:
 * 3 Classifiers:
-  * CNN.py - The TensorFlow code for Convolutional Neural Network implementation (Deep Learning)
+  * cnn.py - The TensorFlow code for Convolutional Neural Network implementation (Deep Learning)
   * kNN.py - The k-Nearest Neighbor classifier implemented using Sci-kit Learn in Python
   * svm.py - The Support Vector Machine classifier implemented using Sci-kit Learn in Python
 
